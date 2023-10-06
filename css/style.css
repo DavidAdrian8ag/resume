@@ -90,7 +90,7 @@ body.section-show .close-btn{
 .close-btn > span{
 	height:3px;
 	width:40px;
-	background:#00008B;
+	background:#f705df;
 	position:absolute;
 	top:50%;
 	left:50%;
@@ -437,7 +437,7 @@ body.section-show .transition-mask:before{
 	*display:inline;
 	*zoom:1;
 	z-index:10;
-	color:#659EC7;
+	color:#0e57cd;
 	font-family: 'Playfair Display', serif;
 	font-style:italic;
 }
@@ -570,7 +570,7 @@ body.section-show .transition-mask:before{
 	-moz-transition:all .3s ease;
 	transition:all .3s ease;
 	position:relative;
-	color:hsl(200, 97%, 40%);
+	color:hsl(122, 92%, 29%);
 	text-align:left;
 	text-transform:uppercase;
 	letter-spacing:3px;
@@ -600,12 +600,12 @@ body.section-show .transition-mask:before{
 	display:none;
 }
 .front-person-links > ul > li > a:hover{
-	color:#B7A389;
+	color:#659EC7;
 }
 .front-person-links > ul > li > a:hover:after,
 .front-person-links > ul > li > a:hover:before{
 	width:25px;
-	background:#999;
+	background:#659EC7;
 }
 /*=======================================================================
 	About Section
