@@ -90,7 +90,7 @@ body.section-show .close-btn{
 .close-btn > span{
 	height:3px;
 	width:40px;
-	background:#f705df;
+	background:#b00ff0;
 	position:absolute;
 	top:50%;
 	left:50%;
@@ -265,9 +265,18 @@ body.section-show .section.active{
 .section-block{
 	overflow:hidden;
 }
-.espacioworktitulo {
-	padding-top: 3rem;
+#propio {
+	padding-top: 50px;
+	color: #00BFFF;
 }
+
+.propio {
+	padding-top: 50px;
+	color: #00BFFF;
+}
+
+
+
 /*=======================================================================
 	Preloader
 =======================================================================*/
@@ -1222,7 +1231,7 @@ body.section-show .transition-mask:before{
 	-ms-transform:rotate(45deg);
 	-o-transform:rotate(45deg);
 	transform:rotate(45deg);
-	border:solid 1px #B7A389;
+	border:solid 1px #ffffff;
 	-webkit-transition:all .3s ease-in-out;
 	-moz-transition:all .3s ease-in-out;
 	transition:all .3s ease-in-out;
@@ -1660,11 +1669,15 @@ body .symp-btn:hover {
 }
 #portfolio-filters > ul > li > a:hover,
 #portfolio-filters > ul > li > a.active{
-	color:#bf0cec;
+	color:#b00ff0;
 }
 #portfolio-filters > ul > li > a.active{
-	font-size:x-large;
-	color: #00008B;
+	font-size:50px;
+	color: #b00ff0;
+}
+#portfolio-filters > ul > li > a{
+	font-size:50px;
+	color: #aca2a2;
 }
 .ion-social-html5 {
 	font-size: 50px;
@@ -1763,9 +1776,18 @@ body .symp-btn:hover {
 	font-size: x-large;
 }
 .work-info > li > a{
-	color:#999;
-	font-size:large;
-	/*====text-decoration:none;*/
+	color:#6cc644;
+	font-size:x-large;
+	text-decoration:none;
+}
+.work-info > li > a:hover{
+		color: #0000FF;
+}
+.seeitworking {
+	color: #659EC7;
+}
+.seeitworking :hover{
+	color: #0000FF;
 }
 .work-content > .block{
 	margin-top:60px;
