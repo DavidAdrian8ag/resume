@@ -488,7 +488,7 @@ body.section-show .transition-mask:before{
 	display:block;
 	width:100%;
 	font-family:Hind, sans-serif;
-	color:#0e1ecd;
+	color:#000000;
 	text-align:center;
 	font-size:24px;
 	letter-spacing:25px;
@@ -570,7 +570,7 @@ body.section-show .transition-mask:before{
 	-moz-transition:all .3s ease;
 	transition:all .3s ease;
 	position:relative;
-	color:hsl(122, 92%, 29%);
+	color:#659EC7;
 	text-align:left;
 	text-transform:uppercase;
 	letter-spacing:3px;
@@ -1654,18 +1654,34 @@ body .symp-btn:hover {
 }
 #portfolio-filters > ul > li > a{
 	display:block;
-	color:#999;
+	color:#659EC7;
 	text-decoration:none;
+	font-size: 50px;
 }
 #portfolio-filters > ul > li > a:hover,
 #portfolio-filters > ul > li > a.active{
-	color:#333;
+	color:#bf0cec;
 }
 #portfolio-filters > ul > li > a.active{
 	font-size:x-large;
-	color: #000000;
+	color: #00008B;
+}
+.ion-social-html5 {
+	font-size: 50px;
+}
+.ion-social-css3 {
+	font-size: 50px;
+}
+.ion-social-sass {
+	font-size: 50px;
+}
 
+.ion-social-javascript {
+	font-size: 50px;
+}
 
+.ion-social-python {
+	font-size: 50px;
 }
 /*=======================================================================
 	Contact Section
