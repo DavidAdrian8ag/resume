@@ -18,9 +18,18 @@
 .process > .number,
 .skill > h4,
 .front-person-links > ul > li > a:hover{
-	color:#bf0cec;
+	color:#b00ff0;
 	font-weight: bolder;
 	font-size: x-large;
+}
+.skill > h4 {
+	color:#777;
+}
+.number > span {
+	color:#659EC7;
+}
+.number > span:hover {
+	color: #F5F5F5;
 }
 .testimonials-slider .owl-controls > .owl-pagination > .owl-page > span,
 .form-control:focus,

@@ -1,7 +1,5 @@
 <h1 align="center">I'm David Adrián Ochoa</h1>
-<h3 align="center">A passionate developer from Mexico
-
-![index.html](https://github.com/Krezitech/Markdown/blob/main/Documentacion/me.jpeg?raw=true)</h3>
+<h3 align="center">A passionate developer from Mexico</h3>
 
 - 👨‍💻 You can check out my landing page [HERE](https://davidadrian8ag.netlify.app/)
 
