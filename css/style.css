@@ -675,17 +675,19 @@ body.section-show .transition-mask:before{
 	margin:0;
 }
 .info-list > li > .inner > h4{
-	font-size:13px;
+	font-size:30px;
 	letter-spacing:4px;
 	margin-right:16px;
 	margin-bottom:8px;
 	display:block;
 	color:#00008B;
+	text-align: center;
 }
 .info-list > li > .inner > p{
-	font-size:16px;
+	font-size:25px;
 	color:#1E90FF;
 	display:block;
+	text-align: center;
 }
 .funfacts-block{
 	padding-top:60px;
@@ -999,6 +1001,8 @@ body.section-show .transition-mask:before{
 }
 .hobby:hover > .icon{
 	top:-15px;
+	color: #ffffff;
+	background-color: #00008B;
 }
 .hobby > .icon > i{
 	display:block;
@@ -1022,6 +1026,9 @@ body.section-show .transition-mask:before{
 	letter-spacing:2px;
 	margin-top:0;
 	margin-top:2px;
+}
+.hobby:hover > h4{
+	color: #08cfe9;
 }
 .skills-block{
 	padding:100px 0;
@@ -1106,13 +1113,16 @@ body.section-show .transition-mask:before{
 	-moz-transition:all .3s ease-in-out;
 	transition:all .3s ease-in-out;
 	font-size:0;
-	background:#B7A389;
-	color:#FFF;
+	background:#d8810f;
+	color:#ffffff;
 	position:relative;
 	top:0;
 }
+
 .service:hover > .icon{
 	top:-15px;
+	color: #00008B;
+
 }
 .service > .icon > i:before{
 	line-height:1em;
@@ -1374,7 +1384,7 @@ body .symp-btn{
 	transition:all .3s ease;
 	border:none;
 	text-decoration:none !important;
-	font-size: x-large;
+	font-size: xx-large;
 }
 .post-more .more-link,
 body .symp-btn:hover {
@@ -1734,7 +1744,8 @@ body .symp-btn:hover {
 }
 .contacto :hover {
 	text-decoration: none;
-}
+	color: #08cfe9;
+	}
 .contacto {
 	text-decoration: none;
 }
@@ -2948,6 +2959,8 @@ body.section-show .transition-mask:before{
 }
 .hobby:hover > .icon{
 	top:-15px;
+	color: #00008B;
+
 }
 .hobby > .icon > i{
 	display:block;
@@ -3062,6 +3075,7 @@ body.section-show .transition-mask:before{
 }
 .service:hover > .icon{
 	top:-15px;
+	color: #00008B;
 }
 .service > .icon > i:before{
 	line-height:1em;
