@@ -139,8 +139,14 @@ body.section-show .close-btn{
 	-moz-transition-delay:.3s;
 	transition-delay:.3s;
 }
+.titulo{
+	font-size: 60px;
+}
+.titulo2{
+	font-size: 50px;
+}
 .section-header h2{
-	font-size:32px;
+	font: size 50px;
 	letter-spacing:6px;
 	color:#000000;
 	margin-top:0;
