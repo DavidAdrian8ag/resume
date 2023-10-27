@@ -472,7 +472,7 @@ body.section-show .transition-mask:before{
 .front-person-titles{
 	position:relative;
 	z-index:10;
-	height:500px;
+	height:495px;
 	width:500px;
 	margin:auto;
 	margin-top:-500px;
@@ -492,7 +492,7 @@ body.section-show .transition-mask:before{
 	text-align:center;
 	font-size:24px;
 	letter-spacing:25px;
-	line-height:2em;
+	line-height:1em;
 }
 .front-person-titles > .t1{
 	left:0px;
