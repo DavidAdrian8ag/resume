@@ -450,7 +450,7 @@ body.section-show .transition-mask:before{
 	-webkit-transition:height .5s .3s ease, transform .5s .8s ease;
 	-moz-transition:height .5s .3s ease, transform .5s .8s ease;
 	transition:height .5s .3s ease, transform .5s .8s ease;
-	margin:80px auto;
+	margin:30px auto;
 	margin-bottom:0;
 	-webkit-transform:rotate(45deg);
 	-moz-transform:rotate(45deg);
@@ -458,6 +458,7 @@ body.section-show .transition-mask:before{
 	-o-transform:rotate(45deg);
 	transform:rotate(45deg);
 	border-radius:0;
+	padding-bottom: 0;
 }
 .front-person-img > img{
 	max-width:90%;
@@ -3769,7 +3770,7 @@ body .symp-btn:hover {
 		padding-bottom:60px;
 	}
 	.front-heading > h2{
-		font-size:50px;
+		font-size:40px;
 	}
 	.front-person-img{
 		height:360px;
