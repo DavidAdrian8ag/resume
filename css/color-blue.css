@@ -5,7 +5,6 @@
 .service > .icon,
 .hobby > .icon,
 .timeline > li:not(.timeline-header):before,
-.footer-social > li > a:hover,
 .process > .number > span:after,
 .testimonials-slider .owl-controls > .owl-pagination > .owl-page.active > span,
 .testimonials-slider .owl-controls > .owl-pagination > .owl-page:hover > span,
@@ -39,4 +38,17 @@
 }
 .process > .number > span:before{
 	border-left-color:#73C2FB;
+}
+
+
+
+
+
+
+
+.footer-social > li > a:hover{
+	color:#00008B;
+	background-color: rgb(252, 252, 252);
+	font-weight: bolder;
+	font-size: x-large;
 }
