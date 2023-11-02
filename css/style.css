@@ -184,13 +184,13 @@ body.section-show .section.active{
 	border-top:solid 1px #F5F5F5;
 }
 .footer h4{
-	font-size:18px;
+	font-size:25px;
 	letter-spacing:4px;
 	margin:0;
 	margin-top:3.5px;
 	font-style:italic;
 	font-family:'Playfair Display', serif;
-	color:#73C2FB;
+	color:#0d95f8;
 }
 .footer-social{
 	margin:0;
@@ -220,7 +220,7 @@ body.section-show .section.active{
 	transition:all .3s ease-in-out;
 	display:block;
 	text-align:center;
-	color:#73C2FB;
+	color:#0d95f8;
 	background:#F0F0F0;
 	font-size:0;
 }
@@ -245,8 +245,8 @@ body.section-show .section.active{
 	font-size: xx-large;
 }
 .footer-social > li > a:hover{
-	background:#B7A389;
-	color:#FFF;
+	background:#e70ab0;
+	color:#00008B;
 }
 .section-block > .container,
 .section-block{
