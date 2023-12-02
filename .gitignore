@@ -1,6 +1,4 @@
-src/
-node_modules/
-build/css/app.css
 package.json
-package-lock.json
-gulpfile.js
+settings.json
+style backup.css
+style con media query ordenado original.css

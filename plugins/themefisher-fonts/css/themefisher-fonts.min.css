@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'themefisher-font';
+    src: url('../fonts/themefisher-font.eot?ug5hnh');
+    src: url('../fonts/themefisher-font.eot?ug5hnh#iefix') format('embedded-opentype'),
+        url('../fonts/themefisher-font.ttf?ug5hnh') format('truetype'),
+        url('../fonts/themefisher-font.woff?ug5hnh') format('woff'),
+        url('../fonts/themefisher-font.svg?ug5hnh#themefisher-font') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+[class^="tf-"],
+[class*=" tf-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'themefisher-font' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.tf-ion-android-globe:before {
+    content: "\f38c";
+}
+.tf-ion-bookmark:before {
+    content: "\f26b";
+}
+.tf-ion-calculator:before {
+    content: "\f26d";
+}
+.tf-ion-close:before {
+    content: "\f12a";
+}
+.tf-ion-email:before {
+    content: "\f132";
+}
+.tf-ion-ios-arrow-left:before {
+    content: "\f3d2";
+}
+.tf-ion-ios-arrow-right:before {
+    content: "\f3d3";
+}
+.tf-ion-ios-box:before {
+    content: "\f3ec";
+}
+.tf-ion-ios-cloud-download:before {
+    content: "\f408";
+}
+.tf-ion-ios-search:before {
+    content: "\f4a5";
+}
+.tf-ion-ios-world:before {
+    content: "\f4d3";
+}
+.tf-ion-laptop:before {
+    content: "\f1fc";
+}
+.tf-ion-paperclip:before {
+    content: "\f20f";
+}
+.tf-ion-social-css3:before {
+    content: "\f4df";
+}
+.tf-ion-social-github:before {
+    content: "\f233";
+}
+.tf-ion-social-html5:before {
+    content: "\f4e3";
+}
+.tf-ion-social-javascript:before {
+    content: "\f4e5";
+}
+.tf-ion-social-linkedin:before {
+    content: "\f239";
+}
+.tf-ion-social-python:before {
+    content: "\f4e9";
+}
+.tf-ion-social-sass:before {
+    content: "\f4ea";
+}
+.tf-ion-social-windows:before {
+    content: "\f247";
+}
+.tf-documents5:before {
+    content: "\e006";
+}
+.tf-briefcase2:before {
+    content: "\e015";
+}
+.tf-envelope2:before {
+    content: "\e028";
+}
+.tf-tools:before {
+    content: "\e033";
+}
+.tf-tools-2:before {
+    content: "\e034";
+}
+.tf-profile-male:before {
+    content: "\e040";
+}
+.tf-happy:before {
+    content: "\e05b";
+}
