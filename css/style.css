@@ -730,7 +730,7 @@ p:last-child {
     fill: #1e2530;
 }
 .service-hex .content {
-    color: #fff;
+    fill: #ffffff;
     left: 50%;
     position: absolute;
     text-align: center;
@@ -798,7 +798,10 @@ p:last-child {
 }
 .maya {
     color: #73C2FB;
-    font-weight: bolder;
+    font-weight: bold;
+}
+.white {
+    color: #fff;
 }
 .flechas:hover {
     color: #73C2FB;
@@ -877,7 +880,7 @@ p:last-child {
 }
 .service>.content>p {
     line-height: 1.6em;
-    color: hsl(0, 0%, 47%);
+    color: #FFF !important;
 }
 .info-list {
     list-style: none;
