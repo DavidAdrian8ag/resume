@@ -1,4 +1,2 @@
 ErrorDocument 404 https://MiPaginaPersonal/404.html
 ErrorDocument 404 https://localhost/MiPaginaPersonal/404.html
-ErrorDocument 404 https://localhost/404.html
-ErrorDocument 404 https://davidadrian8ag.netlify.app/404.html
