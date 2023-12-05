@@ -787,7 +787,7 @@ p:last-child {
 
 .history-scroller {
     padding-top: 82px;
-    max-height: 377px;
+    max-height: 800px;
 }
 
 .history-item {
@@ -838,6 +838,16 @@ p:last-child {
     background-color: #293342;
     margin: 19.05px 0;
 }
+
+.history-hex2 {
+    display: block;
+    position: relative;
+    width: 66px;
+    height: 38.11px;
+    background-color: #1e2530;
+    margin: 19.05px 0;
+}
+
 
 .history-hex::before,
 .history-hex::after {
@@ -1924,4 +1934,8 @@ body .symp-btn:hover {
     .texwelchirr {
         max-width: 100%;
     }
+}
+
+.centradoexp {
+    text-align: center;
 }
