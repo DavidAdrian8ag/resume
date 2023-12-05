@@ -84,7 +84,7 @@
                                     <a href="index.html" class="maya">here</a>.</p>
                                 </div>
                             </div>
-                            <p class="text-center pad404">Ups! seems you missed the right page, try again or just go back to main page.</p>
+                            <p class="text-center pad404">Ups! you missed the right page, try again.</p>
                         </div>
                     </div>
                 </div>
